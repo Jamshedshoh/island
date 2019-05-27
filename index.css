@@ -1,0 +1,9 @@
+body {
+  color: #333333;
+}
+
+.bg {
+  background-image: url('images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
